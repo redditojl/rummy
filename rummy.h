@@ -1,7 +1,5 @@
 /*
- * Louis Croce
- * Rummy Project for Grandma
- *
+ 
  * rummy.h
  * A header file for rummy.cpp that contains
  * structs used and function declarations.
